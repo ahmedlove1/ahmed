@@ -1,0 +1,6 @@
+owner=525713226621648906
+prefix=v
+game=Streaming VendTTa.
+stayinchannel=true
+songinstatus=false
+token=NTg1Mjk0OTkzMDM2NjczMDQ1.XPXYdA.ejmb5DNJMSwCphylK0b_KN2Z2GA
